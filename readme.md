@@ -4,7 +4,7 @@ ___This homework is due by 8am, on 11/02/2015___
 
 ## Description
 
-- Group Project [info here](https://github.com/lv-frontend-2015-10/Group_Project)
+- Group Project [info here](https://github.com/tiy-lv-frontend-2015-10/Group_Project)
 - You will be presenting your work the morning of November 2nd.
 
 ## Objectives
